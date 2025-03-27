@@ -11,7 +11,7 @@ fun main() {
     val maxAttempts = 5
     val connectTimeout = 5000 // 5 секунд
     val readTimeout = 5000 // 5 секунд
-    val expectedHash = "e729338af8fa24513523721e86f84fc1dd18131a0dd91a4b2c995bca5eccfeee"
+    val expectedHash = "45ed89354e3671d77fdf2e9427ec9eb96d45e4c9107453322a95160ddb817eb6"
 
     println("Starting download from $serverUrl...")
 
